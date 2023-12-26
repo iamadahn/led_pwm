@@ -52,6 +52,7 @@ local.properties
 *.settings/
 .loadpath
 .recommenders
+.launch
 
 # External tool builders
 .externalToolBuilders/
